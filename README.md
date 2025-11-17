@@ -25,11 +25,7 @@ The program provides a complete introduction to **data science**, covering:
 
 ## 🏅 Final Certificate  
 
-[![Certificate Placeholder](https://via.placeholder.com/900x600?text=IBM+Data+Science+Professional+Certificate)](https://github.com/faraz-abbasi/IBM-Data-Science-Professional-Certificate/blob/main/certificates/IBM%20Data%20Science%20Professional%20Certificate.jpg)
-
-
-
-
+[![IBM Data Science Certificate](https://raw.githubusercontent.com/faraz-abbasi/IBM-Data-Science-Professional-Certificate/main/certificates/IBM%20Data%20Science%20Professional%20Certificate.jpg)](https://github.com/faraz-abbasi/IBM-Data-Science-Professional-Certificate/blob/main/certificates/IBM%20Data%20Science%20Professional%20Certificate.jpg)
 
 ---
 
